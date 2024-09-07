@@ -1,2 +1,2 @@
 # AIM
-제스처 모델 개발
+Gesture AI모델 개발
